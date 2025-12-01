@@ -2313,7 +2313,7 @@ namespace SM64DSe
                             2,"2 - Star Marker",
                             3,"3 - Star Sphere (VS Hidden)",
                             4,"4 - Star Sphere (Switch Star Empty)",
-                            4,"4 - Star Sphere (Switch Star Inside)",
+                            5,"5 - Star Sphere (Switch Star Inside)",
                             6,"6 - Star Sphere (Switch Star Base)"
                         }){ Name = "Type:" }
                     };
@@ -3389,3 +3389,4 @@ namespace SM64DSe
     }
 
 }
+
